@@ -1,9 +1,12 @@
 # intervals
 
+This is a fork of terezka/intervals to fix dependencies.
+Verion 1.0.0 of this forked package corresponds to terezka/intervals verion 2.0.1.
+
 A library for producing nice intervals for charts. Useful in combination with `terezka/charts`.
 
 ```bash
-$ elm install terezka/intervals
+$ elm install mthiems/intervals
 ```
 
 ```elm
