@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "terezka/intervals",
-    "summary": "A library for producing nice intervals for charts.",
+    "name": "mthiems/intervals",
+    "summary": "Fork of terezka/intervals@2.0.1 to fix dependencies.",
     "license": "BSD-3-Clause",
-    "version": "2.0.1",
+    "version": "1.0.0",
     "exposed-modules": [
         "Intervals"
     ],
